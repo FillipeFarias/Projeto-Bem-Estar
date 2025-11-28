@@ -59,9 +59,14 @@ export default function App() {
             🌿 Playlist para Respiração
           </a>
 
-          <a href="https://open.spotify.com/playlist/3RuL2JFVbgMzAxq" target="_blank" rel="noreferrer" className="block bg-[#FFF6E8] border-2 border-black rounded-xl p-4 shadow-[3px_3px_0px_#FFA600] hover:scale-[1.02] transition-transform font-bold">
+          <a href="https://open.spotify.com/playlist/3RuL2JFVbgMzAxq3nVT9OZ?si=r9g9qIaKRhOkuR2AZuIMig&nd=1&dlsi=ba389e55db084df8" target="_blank" rel="noreferrer" className="block bg-[#FFF6E8] border-2 border-black rounded-xl p-4 shadow-[3px_3px_0px_#FFA600] hover:scale-[1.02] transition-transform font-bold">
             😌 Playlist para Ansiedade em Geral
           </a>
+          
+          <a href="https://open.spotify.com/playlist/5hPab4ybsH5KP4R7VVsXk3?si=EYr6FOrZSoCjjG9V7uqVcQ&pi=RXpfkeT0RPiN4&nd=1&dlsi=668883ba95b541e9" target="_blank" rel="noreferrer" className="block bg-[#FFF6E8] border-2 border-black rounded-xl p-4 shadow-[3px_3px_0px_#FFA600] hover:scale-[1.02] transition-transform font-bold">
+            🙇‍♂️ Playlist para meditação 
+          </a>
+
         </div>
       </section>
 
